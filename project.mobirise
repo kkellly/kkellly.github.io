@@ -21,7 +21,7 @@
         "display5Size": "1.4",
         "display7Font": "Jost",
         "display7Size": "1",
-        "display4Font": "Jost",
+        "display4Font": "Tenor Sans",
         "display4Size": "1",
         "isRoundedButtons": false,
         "isGhostButtonBorder": false,
@@ -71,6 +71,11 @@
         "css": "'Nanum Myeongjo', serif",
         "name": "Nanum Myeongjo",
         "url": "https://fonts.googleapis.com/css?family=Nanum+Myeongjo:400,700,800"
+      },
+      {
+        "css": "'Tenor Sans', sans-serif",
+        "name": "Tenor Sans",
+        "url": "https://fonts.googleapis.com/css?family=Tenor+Sans:400"
       }
     ],
     "uniqCompNum": 212,
